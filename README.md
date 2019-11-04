@@ -15,6 +15,6 @@ Pemberi lisensi tidak dapat mencabut ketentuan di atas sepanjang Anda mematuhi k
 
 ### Berdasarkan ketentuan berikut:
 
-- **Atribusi** — Anda harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan]. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
+- **Atribusi** — Anda harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
 - **BerbagiSerupa** — Apabila Anda menggubah, mengubah, atau membuat turunan dari materi ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 - **Tidak ada pembatasan tambahan** — Anda tidak dapat menggunakan ketentuan hukum atau sarana kontrol teknologi yang secara hukum membatasi orang lain untuk melakukan hal-hal yang diizinkan lisensi ini.
